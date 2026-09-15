@@ -39,7 +39,7 @@ text, tspan { white-space: pre; }
 <tspan x="423" y="144"><tspan class="key">Café</tspan>: <tspan class="dots">..................................................</tspan><tspan class="value"> ∞</tspan></tspan>
 <tspan x="423" y="164"><tspan class="key">Host</tspan>: <tspan class="dots">............................................</tspan><tspan class="value"> Asus-Pc</tspan></tspan>
 <tspan x="423" y="184"><tspan class="key">Kernel</tspan>: <tspan class="dots">....................................</tspan><tspan class="value"> Desenvolvedor</tspan></tspan>
-<tspan x="423" y="204"><tspan class="key">IDE</tspan>: <tspan class="dots">.............................</tspan><tspan class="value"> Delphi, VS Code, Neovim</tspan></tspan>
+<tspan x="423" y="204"><tspan class="key">IDE</tspan>: <tspan class="dots">.........................</tspan><tspan class="value"> RAD Studio, VS Code, Neovim</tspan></tspan>
 <tspan x="423" y="224"></tspan>
 <tspan x="423" y="244"><tspan class="key">Linguagens.Código</tspan>: <tspan class="dots">.....................</tspan><tspan class="value"> Delphi, Golang, C</tspan></tspan>
 <tspan x="423" y="264"><tspan class="key">Hobbies</tspan>: <tspan class="dots">...........................................</tspan><tspan class="value"> Jogos</tspan></tspan>
