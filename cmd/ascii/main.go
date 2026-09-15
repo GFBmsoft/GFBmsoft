@@ -23,6 +23,7 @@ func main() {
 	mask := flag.Float64("mask", 0.95, "raio da máscara elíptica (0 desliga)")
 	cx := flag.Float64("cx", 0.5, "centro X da máscara (0-1)")
 	cy := flag.Float64("cy", 0.45, "centro Y da máscara (0-1)")
+	eq := flag.Bool("eq", false, "equaliza o histograma em vez de só esticar o contraste")
 	crop := flag.String("crop", "", "recorte x0,y0,x1,y1 em pixels")
 	flag.Parse()
 
@@ -88,6 +89,9 @@ func main() {
 				}
 			}
 			v := (lum[r**cols+c] - lo) / (hi - lo)
+			if *eq {
+				v = float64(sort.SearchFloat64s(sorted, lum[r**cols+c])) / float64(len(sorted)-1)
+			}
 			v = math.Max(0, math.Min(1, v))
 			if *invert {
 				v = 1 - v
