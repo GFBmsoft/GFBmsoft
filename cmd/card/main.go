@@ -1,5 +1,5 @@
 // card gera dark_mode.svg e light_mode.svg no estilo neofetch para o README do perfil.
-// Com GITHUB_TOKEN definido, atualiza data/stats.json pela API do GitHub antes de desenhar.
+// Atualiza data/stats.json pela API do GitHub antes de desenhar; com GITHUB_TOKEN inclui repos privados.
 package main
 
 import (
@@ -51,7 +51,8 @@ func main() {
 
 	var st Stats
 	_ = readJSON("data/stats.json", &st)
-	if tok := os.Getenv("GITHUB_TOKEN"); tok != "" {
+	{
+		tok := os.Getenv("GITHUB_TOKEN")
 		fresh, err := fetchStats(tok, cfg.User)
 		if err != nil {
 			log.Printf("aviso: stats não atualizadas, usando cache: %v", err)
