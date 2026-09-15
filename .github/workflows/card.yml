@@ -1,0 +1,33 @@
+name: Atualizar card do perfil
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["card.json", "assets/**", "cmd/**", ".github/workflows/card.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  card:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version-file: go.mod
+      - name: Gerar SVGs
+        env:
+          # ACCESS_TOKEN (PAT) enxerga repos privados; sem ele, só dados públicos.
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN || github.token }}
+        run: go run ./cmd/card
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dark_mode.svg light_mode.svg data/stats.json
+          git diff --cached --quiet || git commit -m "Atualiza card do perfil"
+          git push

@@ -1,0 +1,33 @@
+{
+  "user": "GFBmsoft",
+  "header": "gfbmsoft@github",
+  "birthday": "",
+  "width": 58,
+  "sections": [
+    {
+      "title": "",
+      "fields": [
+        ["OS", "Windows 11 Pro"],
+        ["Uptime", "{uptime}"],
+        ["Host", "Asus-Pc"],
+        ["Kernel", "Desenvolvedor"],
+        ["IDE", "Delphi, VS Code, Neovim"]
+      ]
+    },
+    {
+      "title": "",
+      "fields": [
+        ["Linguagens.Código", "Delphi, Golang, C"],
+        ["Hobbies", "Jogos"]
+      ]
+    },
+    {
+      "title": "Contato",
+      "fields": [
+        ["Empresa", "Bmsoft Sistemas"],
+        ["Local", "Rio do Sul, SC"],
+        ["GitHub", "github.com/GFBmsoft"]
+      ]
+    }
+  ]
+}
