@@ -33,24 +33,25 @@ text, tspan { white-space: pre; }
 <tspan x="20" y="514">           %####******####*+-</tspan>
 <tspan x="20" y="534">               ===----::.</tspan>
 </text>
-<text x="423" y="114" fill="#24292f">
-<tspan x="423" y="114"><tspan class="value">gfbmsoft@github</tspan><tspan class="dots"> ——————————————————————————————————————————</tspan></tspan>
-<tspan x="423" y="134"><tspan class="key">OS</tspan>: <tspan class="dots">.......................................</tspan><tspan class="value"> Windows 11 Pro</tspan></tspan>
-<tspan x="423" y="154"><tspan class="key">Host</tspan>: <tspan class="dots">............................................</tspan><tspan class="value"> Asus-Pc</tspan></tspan>
-<tspan x="423" y="174"><tspan class="key">Kernel</tspan>: <tspan class="dots">....................................</tspan><tspan class="value"> Desenvolvedor</tspan></tspan>
-<tspan x="423" y="194"><tspan class="key">IDE</tspan>: <tspan class="dots">.............................</tspan><tspan class="value"> Delphi, VS Code, Neovim</tspan></tspan>
-<tspan x="423" y="214"></tspan>
-<tspan x="423" y="234"><tspan class="key">Linguagens.Código</tspan>: <tspan class="dots">.....................</tspan><tspan class="value"> Delphi, Golang, C</tspan></tspan>
-<tspan x="423" y="254"><tspan class="key">Hobbies</tspan>: <tspan class="dots">...........................................</tspan><tspan class="value"> Jogos</tspan></tspan>
-<tspan x="423" y="274"></tspan>
-<tspan x="423" y="294">— <tspan class="value">Contato</tspan><tspan class="dots"> ————————————————————————————————————————————————</tspan></tspan>
-<tspan x="423" y="314"><tspan class="key">Empresa</tspan>: <tspan class="dots">.................................</tspan><tspan class="value"> Bmsoft Sistemas</tspan></tspan>
-<tspan x="423" y="334"><tspan class="key">Local</tspan>: <tspan class="dots">....................................</tspan><tspan class="value"> Rio do Sul, SC</tspan></tspan>
-<tspan x="423" y="354"><tspan class="key">GitHub</tspan>: <tspan class="dots">..............................</tspan><tspan class="value"> github.com/GFBmsoft</tspan></tspan>
-<tspan x="423" y="374"></tspan>
-<tspan x="423" y="394">— <tspan class="value">GitHub Stats</tspan><tspan class="dots"> ———————————————————————————————————————————</tspan></tspan>
-<tspan x="423" y="414"><tspan class="key">Repos</tspan>: <tspan class="dots">.....</tspan><tspan class="value"> 2 {Contrib: 0}</tspan> | <tspan class="key">Stars</tspan>: <tspan class="dots">...................</tspan><tspan class="value"> 2</tspan></tspan>
-<tspan x="423" y="434"><tspan class="key">Commits</tspan>: <tspan class="dots">...............</tspan><tspan class="value"> 45</tspan> | <tspan class="key">Followers</tspan>: <tspan class="dots">..............</tspan><tspan class="value"> 11</tspan></tspan>
-<tspan x="423" y="454"><tspan class="key">Linhas de código</tspan>: <tspan class="value">20.894</tspan> ( <tspan class="add">29.909++</tspan>, <tspan class="del">9.015--</tspan> )</tspan>
+<text x="423" y="104" fill="#24292f">
+<tspan x="423" y="104"><tspan class="value">gfbmsoft@github</tspan><tspan class="dots"> ——————————————————————————————————————————</tspan></tspan>
+<tspan x="423" y="124"><tspan class="key">OS</tspan>: <tspan class="dots">.......................................</tspan><tspan class="value"> Windows 11 Pro</tspan></tspan>
+<tspan x="423" y="144"><tspan class="key">Café</tspan>: <tspan class="dots">..................................................</tspan><tspan class="value"> ∞</tspan></tspan>
+<tspan x="423" y="164"><tspan class="key">Host</tspan>: <tspan class="dots">............................................</tspan><tspan class="value"> Asus-Pc</tspan></tspan>
+<tspan x="423" y="184"><tspan class="key">Kernel</tspan>: <tspan class="dots">....................................</tspan><tspan class="value"> Desenvolvedor</tspan></tspan>
+<tspan x="423" y="204"><tspan class="key">IDE</tspan>: <tspan class="dots">.............................</tspan><tspan class="value"> Delphi, VS Code, Neovim</tspan></tspan>
+<tspan x="423" y="224"></tspan>
+<tspan x="423" y="244"><tspan class="key">Linguagens.Código</tspan>: <tspan class="dots">.....................</tspan><tspan class="value"> Delphi, Golang, C</tspan></tspan>
+<tspan x="423" y="264"><tspan class="key">Hobbies</tspan>: <tspan class="dots">...........................................</tspan><tspan class="value"> Jogos</tspan></tspan>
+<tspan x="423" y="284"></tspan>
+<tspan x="423" y="304">— <tspan class="value">Contato</tspan><tspan class="dots"> ————————————————————————————————————————————————</tspan></tspan>
+<tspan x="423" y="324"><tspan class="key">Empresa</tspan>: <tspan class="dots">.................................</tspan><tspan class="value"> Bmsoft Sistemas</tspan></tspan>
+<tspan x="423" y="344"><tspan class="key">Local</tspan>: <tspan class="dots">....................................</tspan><tspan class="value"> Rio do Sul, SC</tspan></tspan>
+<tspan x="423" y="364"><tspan class="key">GitHub</tspan>: <tspan class="dots">..............................</tspan><tspan class="value"> github.com/GFBmsoft</tspan></tspan>
+<tspan x="423" y="384"></tspan>
+<tspan x="423" y="404">— <tspan class="value">GitHub Stats</tspan><tspan class="dots"> ———————————————————————————————————————————</tspan></tspan>
+<tspan x="423" y="424"><tspan class="key">Repos</tspan>: <tspan class="dots">.....</tspan><tspan class="value"> 2 {Contrib: 0}</tspan> | <tspan class="key">Stars</tspan>: <tspan class="dots">...................</tspan><tspan class="value"> 2</tspan></tspan>
+<tspan x="423" y="444"><tspan class="key">Commits</tspan>: <tspan class="dots">...............</tspan><tspan class="value"> 45</tspan> | <tspan class="key">Followers</tspan>: <tspan class="dots">..............</tspan><tspan class="value"> 11</tspan></tspan>
+<tspan x="423" y="464"><tspan class="key">Linhas de código</tspan>: <tspan class="value">20.894</tspan> ( <tspan class="add">29.909++</tspan>, <tspan class="del">9.015--</tspan> )</tspan>
 </text>
 </svg>

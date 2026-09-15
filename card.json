@@ -8,7 +8,7 @@
       "title": "",
       "fields": [
         ["OS", "Windows 11 Pro"],
-        ["Uptime", "{uptime}"],
+        ["Café", "∞"],
         ["Host", "Asus-Pc"],
         ["Kernel", "Desenvolvedor"],
         ["IDE", "Delphi, VS Code, Neovim"]
