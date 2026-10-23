@@ -50,8 +50,8 @@ text, tspan { white-space: pre; }
 <tspan x="423" y="364"><tspan class="key">GitHub</tspan>: <tspan class="dots">..............................</tspan><tspan class="value"> github.com/GFBmsoft</tspan></tspan>
 <tspan x="423" y="384"></tspan>
 <tspan x="423" y="404">— <tspan class="value">GitHub Stats</tspan><tspan class="dots"> ———————————————————————————————————————————</tspan></tspan>
-<tspan x="423" y="424"><tspan class="key">Repos</tspan>: <tspan class="dots">.....</tspan><tspan class="value"> 5 {Contrib: 0}</tspan> | <tspan class="key">Stars</tspan>: <tspan class="dots">...................</tspan><tspan class="value"> 6</tspan></tspan>
-<tspan x="423" y="444"><tspan class="key">Commits</tspan>: <tspan class="dots">..............</tspan><tspan class="value"> 400</tspan> | <tspan class="key">Followers</tspan>: <tspan class="dots">..............</tspan><tspan class="value"> 12</tspan></tspan>
-<tspan x="423" y="464"><tspan class="key">Linhas de código</tspan>: <tspan class="value">152.494</tspan> ( <tspan class="add">176.866++</tspan>, <tspan class="del">24.372--</tspan> )</tspan>
+<tspan x="423" y="424"><tspan class="key">Repos</tspan>: <tspan class="dots">.....</tspan><tspan class="value"> 4 {Contrib: 0}</tspan> | <tspan class="key">Stars</tspan>: <tspan class="dots">...................</tspan><tspan class="value"> 6</tspan></tspan>
+<tspan x="423" y="444"><tspan class="key">Commits</tspan>: <tspan class="dots">..............</tspan><tspan class="value"> 180</tspan> | <tspan class="key">Followers</tspan>: <tspan class="dots">..............</tspan><tspan class="value"> 12</tspan></tspan>
+<tspan x="423" y="464"><tspan class="key">Linhas de código</tspan>: <tspan class="value">93.554</tspan> ( <tspan class="add">106.503++</tspan>, <tspan class="del">12.949--</tspan> )</tspan>
 </text>
 </svg>
