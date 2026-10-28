@@ -51,7 +51,7 @@ text, tspan { white-space: pre; }
 <tspan x="423" y="384"></tspan>
 <tspan x="423" y="404">— <tspan class="value">GitHub Stats</tspan><tspan class="dots"> ———————————————————————————————————————————</tspan></tspan>
 <tspan x="423" y="424"><tspan class="key">Repos</tspan>: <tspan class="dots">.....</tspan><tspan class="value"> 4 {Contrib: 0}</tspan> | <tspan class="key">Stars</tspan>: <tspan class="dots">...................</tspan><tspan class="value"> 6</tspan></tspan>
-<tspan x="423" y="444"><tspan class="key">Commits</tspan>: <tspan class="dots">..............</tspan><tspan class="value"> 190</tspan> | <tspan class="key">Followers</tspan>: <tspan class="dots">..............</tspan><tspan class="value"> 12</tspan></tspan>
-<tspan x="423" y="464"><tspan class="key">Linhas de código</tspan>: <tspan class="value">95.847</tspan> ( <tspan class="add">109.038++</tspan>, <tspan class="del">13.191--</tspan> )</tspan>
+<tspan x="423" y="444"><tspan class="key">Commits</tspan>: <tspan class="dots">..............</tspan><tspan class="value"> 195</tspan> | <tspan class="key">Followers</tspan>: <tspan class="dots">..............</tspan><tspan class="value"> 12</tspan></tspan>
+<tspan x="423" y="464"><tspan class="key">Linhas de código</tspan>: <tspan class="value">97.120</tspan> ( <tspan class="add">111.391++</tspan>, <tspan class="del">14.271--</tspan> )</tspan>
 </text>
 </svg>
